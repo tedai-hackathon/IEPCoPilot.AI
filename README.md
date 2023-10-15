@@ -46,5 +46,35 @@ We welcome contributions from everyone. Feel free to open an issue or create a p
 
 ---
 
+## Tools and Technology
+
+### Version Control:
+- **GitHub**: We utilized GitHub for our version control needs, enabling a collaborative environment and ensuring smooth code integration.
+
+### Continuous Integration and Deployment:
+- **GitHub Actions Workflows**: Allowed us to automate our software development workflows, ensuring code quality and automated deployments.
+
+### Programming Languages and Frameworks:
+- **Python 3.11**: The backbone of our backend services.
+- **Flask**: A micro web framework written in Python, used for developing our web application.
+  
+### Search and Database:
+- **OpenSearch**: An open-source search and analytics suite, which we employed for efficient data retrieval.
+- **ChromaDB**: Our chosen database system for robust data storage and retrieval.
+
+### AI and API:
+- **Chat GPT**: Leveraged for natural language processing and enhancing user interaction.
+- **LLAMA2 API**: Integrated for [specific function of LLAMA2 API].
+
+### Frontend Development:
+- **HTML, JS, CSS**: The core trio of web technologies, forming the foundation of our web application.
+- **Bootstrap**: Assisted us in creating a modern and responsive user interface.
+  
+### Design Principles:
+- **Responsive Design**: Ensuring our application looks and functions perfectly across all device sizes.
+- **Human Centered Design Principle**: Our approach prioritizes the human perspective in all steps of the problem-solving process, creating solutions that are tailored to the user.
+
+---
+
 ## License  
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
