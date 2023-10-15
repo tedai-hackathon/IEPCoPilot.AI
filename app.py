@@ -28,7 +28,7 @@ if datasource == 'DB':
 
 @app.route('/')
 def index():
-    return render_template('index2.html')
+    return render_template('index.html')
 
 @app.route('/v1')
 def index_v1():
