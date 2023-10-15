@@ -6,6 +6,7 @@
 3. [Solution](#solution)
 4. [Architecture](#architecture)
 5. [Contribution](#contribution)
+6. [License](#license)  <!-- New Section -->
 
 ---
 
@@ -43,3 +44,7 @@ By acting as a co-pilot, the app doesn’t replace human expertise but amplifies
 ## Contribution
 We welcome contributions from everyone. Feel free to open an issue or create a pull request.
 
+---
+
+## License  
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
